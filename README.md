@@ -1,1 +1,1 @@
-# Yandex_Product_analist
+# Yandex_Product_analyst
